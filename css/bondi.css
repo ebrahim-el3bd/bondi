@@ -173,7 +173,7 @@ body {
 .our-work .box::before {
     content: attr(data-work);
     position: absolute;
-    background-color: rgb(51 209 204 /76%)
+    background-color: rgb(51 209 204 /76%);
     width: calc(100% - 10px);
     height: calc(100% - 10px);
     display: flex;
